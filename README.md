@@ -1,4 +1,4 @@
 # Moving Car
 
-this is just a website
-This is website is not responsice
+This is a animation project of moving car.
+This is website is not responsive.
